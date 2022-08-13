@@ -34,7 +34,7 @@ header img{
     transition: cubic-bezier(.68,-0.55,.27,1.55) 1.2s;
 }
 .parallax{
-    background: url(image/college1.jpg);
+    background: url(image/ramanujan_college.jpg);
     height: 475px;
     width: 100%;
     background-attachment: fixed;
